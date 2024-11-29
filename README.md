@@ -6,7 +6,7 @@
 - 😄 Pronouns: varun
 - ⚡ Fun fact: i am a traveler exited to explore.
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,html,css,js,react)](https://skillicons.dev)
 
 <!---
 varunnayu/varunnayu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
